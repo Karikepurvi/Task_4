@@ -5,6 +5,7 @@ Hi! This is my submission for Task 4 of the Data Analyst Internship – focused 
 -Used SELECT, WHERE, ORDER BY, and GROUP BY to filter, sort, and group data
 
 -Applied aggregate functions like COUNT, SUM, AVG, and MAX to analyze:
+
   -Total events by type
   -Most active users
   -Average and total prices per brand/category
